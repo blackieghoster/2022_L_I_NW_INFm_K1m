@@ -3,7 +3,7 @@ from hello_world.formater import get_formatted
 from hello_world.formater import SUPPORTED, PLAIN
 from flask import request
 
-user_name = "John Doe"
+user_name = "John"
 msg = "Hello World!"
 
 
