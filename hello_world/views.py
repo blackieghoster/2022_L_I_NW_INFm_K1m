@@ -3,8 +3,8 @@ from hello_world.formater import get_formatted
 from hello_world.formater import SUPPORTED, PLAIN
 from flask import request
 
-user_name = "John"
-msg = "Hello World!"
+user_name = "Maciej Lech"
+msg = "Lorem Ipsum <3"
 
 
 @app.route('/')
